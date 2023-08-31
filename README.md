@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 
 The Excel file should have a sheet labeled as "Sheet2" with columns "Check In Date" and "Check In Time". The time should be in the format "hh:mm AM/PM".
 
-![Sample Excel Data](https://ibb.co/9YvdVZW)
+[Sample Excel Data](https://ibb.co/9YvdVZW)
 
 
 ## Example
