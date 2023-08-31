@@ -37,7 +37,7 @@ The Excel file should have a sheet labeled as "Sheet2" with columns "Check In Da
 
 
 ## Example
-![Example Run](link_to_gif)
+[Example Run](https://streamable.com/yxwsa9)
 
 
 ## Contact
